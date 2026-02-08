@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio de Mélysane LANTONKPODE
 
 ## 🚀 Développeuse Full Stack Web et Logicielle
@@ -145,3 +146,6 @@ Ce projet est libre d'utilisation pour votre usage personnel.
 5. **Performance** : Optimisez vos images avant de les uploader
 
 Bon développement ! 🚀
+=======
+# M-lysane-portfolio
+>>>>>>> 990cc78e7085a198001afd8f8b33e8be535b39eb
